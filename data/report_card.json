@@ -1,28 +1,408 @@
 {
     "mid_report":
     {
-        "grade_8": {
+        "grade_8":
+        {
             "semester_1":
             {
                 "subjects":
-                "smh"
+                {
+                    "Agama":
+                    {
+                        "Knowledge": 91.44,
+                        "Skill": 87.5,
+                        "Attitude": 3.3
+                    },
+                    "PKN":
+                    {
+                        "Knowledge": 90,
+                        "Skill": 86.5,
+                        "Attitude": 3.38
+                    },
+                    "Bahasa Indonesia":
+                    {
+                        "Knowledge": 84,
+                        "Skill": 85,
+                        "Attitude": 3.3
+                    },
+                    "English":
+                    {
+                        "Knowledge": 93.1,
+                        "Skill": 93.33,
+                        "Attitude": 3.67
+                    },
+                    "English Conversation":
+                    {
+                        "Knowledge": 93.8,
+                        "Skill": 95,
+                        "Attitude": 3.6
+                    },
+                    "Mathematics":
+                    {
+                        "Knowledge": 89.76,
+                        "Skill": 90,
+                        "Attitude": 3.13
+                    },
+                    "Physics":
+                    {
+                        "Knowledge": 91.25,
+                        "Skill": 82.5,
+                        "Attitude": 3.5
+                    },
+                    "Chemistry":
+                    {
+                        "Knowledge": 94.29,
+                        "Skill": 87.5,
+                        "Attitude": 3.5
+                    },
+                    "Biology":
+                    {
+                        "Knowledge": 77.5,
+                        "Skill": 75,
+                        "Attitude": 3.2
+                    },
+                    "Economics": null,
+                    "Business Studies": null,
+                    "Art & Design": null,
+                    "Physical Education":
+                    {
+                        "Knowledge": 92.5,
+                        "Skill": 92.5,
+                        "Attitude": 3.2
+                    },
+                    "Computer Science":
+                    {
+                        "Knowledge": 91,
+                        "Skill": 89.5,
+                        "Attitude": 3.8
+                    },
+                    "Music":
+                    {
+                        "Knowledge": 89.88,
+                        "Skill": 91.5,
+                        "Attitude": 3.8
+                    },
+                    "Theatre":
+                    {
+                        "Knowledge": 85,
+                        "Skill": 85.67,
+                        "Attitude": 3.31
+                    },
+                    "Mandarin":
+                    {
+                        "Knowledge": 97.13,
+                        "Skill": 85.33,
+                        "Attitude": 3.48
+                    },
+                    "Average":
+                    {
+                        "Knowledge": 90.05,
+                        "Skill": 87.63,
+                        "Attitude": 3.43
+                    }
+                }
+
             },
             "semester_2":
             {
                 "subjects":
-                "smh"
+                {
+                    "Agama":
+                    {
+                        "Knowledge": 97.9,
+                        "Skill": 91.5,
+                        "Attitude": 3.33
+                    },
+                    "PKN":
+                    {
+                        "Knowledge": 84.5,
+                        "Skill": 86,
+                        "Attitude": 3.35
+                    },
+                    "Bahasa Indonesia":
+                    {
+                        "Knowledge": 83.25,
+                        "Skill": 86,
+                        "Attitude": 3.25
+                    },
+                    "English":
+                    {
+                        "Knowledge": 93,
+                        "Skill": 87.33,
+                        "Attitude": 3.6
+                    },
+                    "English Conversation":
+                    {
+                        "Knowledge": 88.4,
+                        "Skill": 89,
+                        "Attitude": 3.6
+                    },
+                    "Mathematics":
+                    {
+                        "Knowledge": 87.3,
+                        "Skill": 85.5,
+                        "Attitude": 3.4
+                    },
+                    "Physics":
+                    {
+                        "Knowledge": 100,
+                        "Skill": 97.5,
+                        "Attitude": 3.8
+                    },
+                    "Chemistry":
+                    {
+                        "Knowledge": 79.53,
+                        "Skill": 80,
+                        "Attitude": 3.4
+                    },
+                    "Biology":
+                    {
+                        "Knowledge": 81.44,
+                        "Skill": 85,
+                        "Attitude": 3.33
+                    },
+                    "Economics": null,
+                    "Business Studies": null,
+                    "Art & Design": null,
+                    "Physical Education":
+                    {
+                        "Knowledge": 91.83,
+                        "Skill": 92,
+                        "Attitude": 3.2
+                    },
+                    "Computer Science":
+                    {
+                        "Knowledge": 96.5,
+                        "Skill": 95,
+                        "Attitude": 3.8
+                    },
+                    "Music":
+                    {
+                        "Knowledge": 93.88,
+                        "Skill": 93.33,
+                        "Attitude": 3.56
+                    },
+                    "Theatre":
+                    {
+                        "Knowledge": 93.5,
+                        "Skill": 90,
+                        "Attitude": 3.5
+                    },
+                    "Mandarin":
+                    {
+                        "Knowledge": 92.51,
+                        "Skill": 92,
+                        "Attitude": 3.41
+                    },
+                    "Average":
+                    {
+                        "Knowledge": 90.25,
+                        "Skill": 89.3,
+                        "Attitude": 3.47
+                    }
+                }
+
             }
         },
         "grade_9": {
             "semester_1":
             {
                 "subjects":
-                "smh"
+                {
+                    "Agama":
+                    {
+                        "Knowledge": 92.88,
+                        "Skill": 85,
+                        "Attitude": 3.4
+                    },
+                    "PKN":
+                    {
+                        "Knowledge": 86.25,
+                        "Skill": 85,
+                        "Attitude": 3.36
+                    },
+                    "Bahasa Indonesia":
+                    {
+                        "Knowledge": 86.4,
+                        "Skill": 83.5,
+                        "Attitude": 3.3
+                    },
+                    "English":
+                    {
+                        "Knowledge": 86.67,
+                        "Skill": 87.5,
+                        "Attitude": 3.7
+                    },
+                    "English Conversation":
+                    {
+                        "Knowledge": 86.67,
+                        "Skill": 85,
+                        "Attitude": 3.7
+                    },
+                    "Mathematics":
+                    {
+                        "Knowledge": 100,
+                        "Skill": 100,
+                        "Attitude": 3.6
+                    },
+                    "Physics":
+                    {
+                        "Knowledge": 93.75,
+                        "Skill": 95,
+                        "Attitude": 3.7
+                    },
+                    "Chemistry":
+                    {
+                        "Knowledge": 100,
+                        "Skill": 84,
+                        "Attitude": 3.52
+                    },
+                    "Biology":
+                    {
+                        "Knowledge": 86.75,
+                        "Skill": 97,
+                        "Attitude": 3.3
+                    },
+                    "Economics": null,
+                    "Business Studies": null,
+                    "Art & Design": null,
+                    "Physical Education":
+                    {
+                        "Knowledge": 85,
+                        "Skill": 85,
+                        "Attitude": 3.2
+                    },
+                    "Computer Science":
+                    {
+                        "Knowledge": 93,
+                        "Skill": 100,
+                        "Attitude": 3.6
+                    },
+                    "Music":
+                    {
+                        "Knowledge": 92,
+                        "Skill": 90,
+                        "Attitude": 3.4
+                    },
+                    "Mandarin":
+                    {
+                        "Knowledge": 94.47,
+                        "Skill": 80.5,
+                        "Attitude": 3.26
+                    },
+                    "Global Perspective":
+                    {
+                        "Knowledge": 95,
+                        "Skill": 95,
+                        "Attitude": 3.6
+                    },
+                    "Average":
+                    {
+                        "Knowledge": 91.35,
+                        "Skill": 89.56,
+                        "Attitude": 3.47
+                    }
+                }
+
             },
             "semester_2":
             {
                 "subjects":
-                    "smh"
+                {
+                    "Agama":
+                    {
+                        "Knowledge": 98.5,
+                        "Skill": 95,
+                        "Attitude": 3.4
+                    },
+                    "PKN":
+                    {
+                        "Knowledge": 86,
+                        "Skill": 86,
+                        "Attitude": 3.34
+                    },
+                    "Bahasa Indonesia":
+                    {
+                        "Knowledge": 83.54,
+                        "Skill": 85,
+                        "Attitude": 3.27
+                    },
+                    "English":
+                    {
+                        "Knowledge": 90,
+                        "Skill": 87,
+                        "Attitude": 3.6
+                    },
+                    "English Conversation":
+                    {
+                        "Knowledge": 87.5,
+                        "Skill": 88.33,
+                        "Attitude": 3.6
+                    },
+                    "Mathematics":
+                    {
+                        "Knowledge": 95,
+                        "Skill": 100,
+                        "Attitude": 3.6
+                    },
+                    "Physics":
+                    {
+                        "Knowledge": 94,
+                        "Skill": 90,
+                        "Attitude": 3.3
+                    },
+                    "Chemistry":
+                    {
+                        "Knowledge": 83.51,
+                        "Skill": 80,
+                        "Attitude": 3.2
+                    },
+                    "Biology":
+                    {
+                        "Knowledge": 84.75,
+                        "Skill": 80,
+                        "Attitude": 3.4
+                    },
+                    "Economics": null,
+                    "Business Studies": null,
+                    "Art & Design": null,
+                    "Physical Education":
+                    {
+                        "Knowledge": 89.67,
+                        "Skill": 88.5,
+                        "Attitude": 3.2
+                    },
+                    "Computer Science":
+                    {
+                        "Knowledge": 92,
+                        "Skill": 95,
+                        "Attitude": 3.6
+                    },
+                    "Music":
+                    {
+                        "Knowledge": 82,
+                        "Skill": 84.5,
+                        "Attitude": 3.35
+                    },
+                    "Mandarin":
+                    {
+                        "Knowledge": 91.75,
+                        "Skill": 85,
+                        "Attitude": 3.25
+                    },
+                    "Global Perspective":
+                    {
+                        "Knowledge": 92.5,
+                        "Skill": 90,
+                        "Attitude": 3.6
+                    },
+                    "Average":
+                    {
+                        "Knowledge": 89.34,
+                        "Skill": 88.17,
+                        "Attitude": 3.41
+                    }
+                }
             }
         }
     },
