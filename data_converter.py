@@ -1,27 +1,43 @@
 from open_json import open_json
+import json
 
-def data_converter():
-    report_card = open_json("report_card")
+def data_converter(output_file):
+    # Opens the report_card.json file
+    data = open_json("report_card")
 
-    for report_type_name, report_type in report_card.items():
-        report_type_name = report_type_name.replace("_", " ").title()
+    # Create a new dictionary to store the converted data
+    converted_data = {}
 
+    # Extract and convert subject details
+    for report_type_name, report_type in data.items():
         for grade_name, grade in report_type.items():
-            grade_name = grade_name.replace("_", " ").title()
-
             for semester_name, semester in grade.items():
-                semester_name = semester_name.replace("_", " ").title()
-
-                print(f"Report Type: {report_type_name}")
-                print(f"Grade: {grade_name}")
-                print(f"Semester: {semester_name}")
-                print()
-                print("Subject Details:")
                 for subject_name, subject_details in semester["subjects"].items():
                     if subject_details is not None:
-                        print(f"  Subject: {subject_name}")
-                        for key, value in subject_details.items():
-                            print(f"    {key}: {value}")
-                print()
+                        # Check if the subject exists in the converted data dictionary
+                        if subject_name not in converted_data:
+                            converted_data[subject_name] = {}
 
-data_converter()
+                        # Check if the report type exists for the subject
+                        if report_type_name not in converted_data[subject_name]:
+                            converted_data[subject_name][report_type_name] = {}
+
+                        # Check if the grade exists for the report type
+                        if grade_name not in converted_data[subject_name][report_type_name]:
+                            converted_data[subject_name][report_type_name][grade_name] = {}
+
+                        # Store the subject details under the grade
+                        converted_data[subject_name][report_type_name][grade_name] = subject_details
+
+    # Write the converted data to a new JSON file
+    with open(output_file, 'w') as file:
+        json.dump(converted_data, file, indent=4)
+
+# Define the output file path
+output_file = "data/converted_data.json"
+
+data_converter(output_file)
+
+# I'm a lazy ass programmer so this was written by ChatGPT
+# I also apologize for the excessive loops, but this will realistically be run like 20 times
+# smh

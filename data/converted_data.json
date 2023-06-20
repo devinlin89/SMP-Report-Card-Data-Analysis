@@ -1,0 +1,592 @@
+{
+    "Agama": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 90.91,
+                "Skill": 80,
+                "Attitude": 3.4
+            },
+            "grade_8": {
+                "Knowledge": 97.9,
+                "Skill": 91.5,
+                "Attitude": 3.33
+            },
+            "grade_9": {
+                "Knowledge": 98.5,
+                "Skill": 95,
+                "Attitude": 3.4
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 92.19,
+                "Skill": 85.5,
+                "Attitude": 3.34
+            },
+            "grade_8": {
+                "Knowledge": 96,
+                "Skill": 91.5,
+                "Attitude": 3.37
+            },
+            "grade_9": {
+                "Knowledge": 95,
+                "Skill": 95,
+                "Attitude": 3.4
+            }
+        }
+    },
+    "PKN": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 85,
+                "Skill": 87,
+                "Attitude": 3.5
+            },
+            "grade_8": {
+                "Knowledge": 84.5,
+                "Skill": 86,
+                "Attitude": 3.35
+            },
+            "grade_9": {
+                "Knowledge": 86,
+                "Skill": 86,
+                "Attitude": 3.34
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 85.09,
+                "Skill": 87,
+                "Attitude": 3.4
+            },
+            "grade_8": {
+                "Knowledge": 89.51,
+                "Skill": 88,
+                "Attitude": 3.36
+            },
+            "grade_9": {
+                "Knowledge": 82.86,
+                "Skill": 85.5,
+                "Attitude": 3.3
+            }
+        }
+    },
+    "Bahasa Indonesia": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 95,
+                "Skill": 92,
+                "Attitude": 3.2
+            },
+            "grade_8": {
+                "Knowledge": 83.25,
+                "Skill": 86,
+                "Attitude": 3.25
+            },
+            "grade_9": {
+                "Knowledge": 83.54,
+                "Skill": 85,
+                "Attitude": 3.27
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 88.97,
+                "Skill": 88.57,
+                "Attitude": 3.16
+            },
+            "grade_8": {
+                "Knowledge": 82.03,
+                "Skill": 84,
+                "Attitude": 3.3
+            },
+            "grade_9": {
+                "Knowledge": 80.83,
+                "Skill": 85,
+                "Attitude": 3.25
+            }
+        }
+    },
+    "English": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 98.22,
+                "Skill": 95,
+                "Attitude": 3.31
+            },
+            "grade_8": {
+                "Knowledge": 93,
+                "Skill": 87.33,
+                "Attitude": 3.6
+            },
+            "grade_9": {
+                "Knowledge": 90,
+                "Skill": 87,
+                "Attitude": 3.6
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 96.47,
+                "Skill": 93,
+                "Attitude": 3.38
+            },
+            "grade_8": {
+                "Knowledge": 89.42,
+                "Skill": 89.25,
+                "Attitude": 3.6
+            },
+            "grade_9": {
+                "Knowledge": 90.6,
+                "Skill": 92,
+                "Attitude": 3.65
+            }
+        }
+    },
+    "English Conversation": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 95,
+                "Skill": 96.5,
+                "Attitude": 3.6
+            },
+            "grade_8": {
+                "Knowledge": 88.4,
+                "Skill": 89,
+                "Attitude": 3.6
+            },
+            "grade_9": {
+                "Knowledge": 87.5,
+                "Skill": 88.33,
+                "Attitude": 3.6
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 87.27,
+                "Skill": 97.5,
+                "Attitude": 3.64
+            },
+            "grade_8": {
+                "Knowledge": 86.43,
+                "Skill": 94.33,
+                "Attitude": 3.6
+            },
+            "grade_9": {
+                "Knowledge": 86.1,
+                "Skill": 87.25,
+                "Attitude": 3.6
+            }
+        }
+    },
+    "Mathematics": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 89.53,
+                "Skill": 86.25,
+                "Attitude": 3.25
+            },
+            "grade_8": {
+                "Knowledge": 87.3,
+                "Skill": 85.5,
+                "Attitude": 3.4
+            },
+            "grade_9": {
+                "Knowledge": 95,
+                "Skill": 100,
+                "Attitude": 3.6
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 90.97,
+                "Skill": 87,
+                "Attitude": 3.25
+            },
+            "grade_8": {
+                "Knowledge": 88.99,
+                "Skill": 85.5,
+                "Attitude": 3.4
+            },
+            "grade_9": {
+                "Knowledge": 97.19,
+                "Skill": 99,
+                "Attitude": 3.67
+            }
+        }
+    },
+    "Physics": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 89.1,
+                "Skill": 91.67,
+                "Attitude": 3.7
+            },
+            "grade_8": {
+                "Knowledge": 100,
+                "Skill": 97.5,
+                "Attitude": 3.8
+            },
+            "grade_9": {
+                "Knowledge": 94,
+                "Skill": 90,
+                "Attitude": 3.3
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 86.88,
+                "Skill": 91.25,
+                "Attitude": 3.67
+            },
+            "grade_8": {
+                "Knowledge": 95.8,
+                "Skill": 96.25,
+                "Attitude": 3.8
+            },
+            "grade_9": {
+                "Knowledge": 96.4,
+                "Skill": 91.67,
+                "Attitude": 3.25
+            }
+        }
+    },
+    "Chemistry": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 90.73,
+                "Skill": 84,
+                "Attitude": 3.39
+            },
+            "grade_8": {
+                "Knowledge": 79.53,
+                "Skill": 80,
+                "Attitude": 3.4
+            },
+            "grade_9": {
+                "Knowledge": 83.51,
+                "Skill": 80,
+                "Attitude": 3.2
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 89.88,
+                "Skill": 86.33,
+                "Attitude": 3.37
+            },
+            "grade_8": {
+                "Knowledge": 88.67,
+                "Skill": 93.33,
+                "Attitude": 3.38
+            },
+            "grade_9": {
+                "Knowledge": 86.8,
+                "Skill": 82.25,
+                "Attitude": 3.25
+            }
+        }
+    },
+    "Biology": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 84.61,
+                "Skill": 91,
+                "Attitude": 3.35
+            },
+            "grade_8": {
+                "Knowledge": 81.44,
+                "Skill": 85,
+                "Attitude": 3.33
+            },
+            "grade_9": {
+                "Knowledge": 84.75,
+                "Skill": 80,
+                "Attitude": 3.4
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 86.43,
+                "Skill": 90.6,
+                "Attitude": 3.32
+            },
+            "grade_8": {
+                "Knowledge": 87.18,
+                "Skill": 85.67,
+                "Attitude": 3.35
+            },
+            "grade_9": {
+                "Knowledge": 87.95,
+                "Skill": 84.75,
+                "Attitude": 3.4
+            }
+        }
+    },
+    "Economics": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 91,
+                "Skill": 92.5,
+                "Attitude": 3.4
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 85.3,
+                "Skill": 90,
+                "Attitude": 3.4
+            }
+        }
+    },
+    "Business Studies": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 85.66,
+                "Skill": 83.33,
+                "Attitude": 3.61
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 91.67,
+                "Skill": 83.33,
+                "Attitude": 3.56
+            }
+        }
+    },
+    "Art & Design": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 84.6,
+                "Skill": 85,
+                "Attitude": 3.44
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 81.74,
+                "Skill": 83.4,
+                "Attitude": 3.42
+            }
+        }
+    },
+    "Physical Education": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 88.2,
+                "Skill": 88.2,
+                "Attitude": 3.2
+            },
+            "grade_8": {
+                "Knowledge": 91.83,
+                "Skill": 92,
+                "Attitude": 3.2
+            },
+            "grade_9": {
+                "Knowledge": 89.67,
+                "Skill": 88.5,
+                "Attitude": 3.2
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 90.21,
+                "Skill": 89.13,
+                "Attitude": 3.2
+            },
+            "grade_8": {
+                "Knowledge": 92.15,
+                "Skill": 92.2,
+                "Attitude": 3.2
+            },
+            "grade_9": {
+                "Knowledge": 90.2,
+                "Skill": 89.33,
+                "Attitude": 3.2
+            }
+        }
+    },
+    "Computer Science": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 94.96,
+                "Skill": 95,
+                "Attitude": 3.8
+            },
+            "grade_8": {
+                "Knowledge": 96.5,
+                "Skill": 95,
+                "Attitude": 3.8
+            },
+            "grade_9": {
+                "Knowledge": 92,
+                "Skill": 95,
+                "Attitude": 3.6
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 93.98,
+                "Skill": 95,
+                "Attitude": 3.73
+            },
+            "grade_8": {
+                "Knowledge": 96.5,
+                "Skill": 95,
+                "Attitude": 3.8
+            },
+            "grade_9": {
+                "Knowledge": 92.96,
+                "Skill": 95,
+                "Attitude": 3.6
+            }
+        }
+    },
+    "Music": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 75,
+                "Skill": 81.67,
+                "Attitude": 3.31
+            },
+            "grade_8": {
+                "Knowledge": 93.88,
+                "Skill": 93.33,
+                "Attitude": 3.56
+            },
+            "grade_9": {
+                "Knowledge": 82,
+                "Skill": 84.5,
+                "Attitude": 3.35
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 82.23,
+                "Skill": 83.4,
+                "Attitude": 3.38
+            },
+            "grade_8": {
+                "Knowledge": 91.02,
+                "Skill": 89.71,
+                "Attitude": 3.58
+            },
+            "grade_9": {
+                "Knowledge": 85.63,
+                "Skill": 85.25,
+                "Attitude": 3.4
+            }
+        }
+    },
+    "Theatre": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 86,
+                "Skill": 86.33,
+                "Attitude": 3.28
+            },
+            "grade_8": {
+                "Knowledge": 93.5,
+                "Skill": 90,
+                "Attitude": 3.5
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 85.11,
+                "Skill": 85.2,
+                "Attitude": 3.29
+            },
+            "grade_8": {
+                "Knowledge": 92.07,
+                "Skill": 91.2,
+                "Attitude": 3.47
+            }
+        }
+    },
+    "Mandarin": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 97.77
+            },
+            "grade_8": {
+                "Knowledge": 92.51,
+                "Skill": 92,
+                "Attitude": 3.41
+            },
+            "grade_9": {
+                "Knowledge": 91.75,
+                "Skill": 85,
+                "Attitude": 3.25
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 95.08
+            },
+            "grade_8": {
+                "Knowledge": 92.3,
+                "Skill": 92,
+                "Attitude": 3.41
+            },
+            "grade_9": {
+                "Knowledge": 89.54,
+                "Skill": 82.67,
+                "Attitude": 3.28
+            }
+        }
+    },
+    "Average": {
+        "mid_report": {
+            "grade_7": {
+                "Knowledge": 88.97,
+                "Skill": 88.47,
+                "Attitude": 3.42
+            },
+            "grade_8": {
+                "Knowledge": 90.25,
+                "Skill": 89.3,
+                "Attitude": 3.47
+            },
+            "grade_9": {
+                "Knowledge": 89.34,
+                "Skill": 88.17,
+                "Attitude": 3.41
+            }
+        },
+        "final_report": {
+            "grade_7": {
+                "Knowledge": 89.02,
+                "Skill": 88.51,
+                "Attitude": 3.41
+            },
+            "grade_8": {
+                "Knowledge": 90.58,
+                "Skill": 90.57,
+                "Attitude": 3.47
+            },
+            "grade_9": {
+                "Knowledge": 89.69,
+                "Skill": 88.91,
+                "Attitude": 3.42
+            }
+        }
+    },
+    "Global Perspective": {
+        "mid_report": {
+            "grade_9": {
+                "Knowledge": 92.5,
+                "Skill": 90,
+                "Attitude": 3.6
+            }
+        },
+        "final_report": {
+            "grade_9": {
+                "Knowledge": 93.63,
+                "Skill": 90,
+                "Attitude": 3.6
+            }
+        }
+    }
+}
