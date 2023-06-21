@@ -1,7 +1,7 @@
 from open_json import open_json
 import json
 
-def data_converter(output_file):
+def data_converter(output_file: str):
     # Opens the report_card.json file
     data = open_json("report_card")
 
