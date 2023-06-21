@@ -1,4 +1,3 @@
-
 from find_subject import find_subject
 
 def best_improving(start, end, score_type, subjects_report):
