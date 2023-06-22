@@ -30,5 +30,3 @@ score_types = ["Knowledge", "Skill", "Attitude"]
 
 for score_type in score_types:
     subject_improvement(start_report, end_report, score_type , subjects_report)
-print(best_improving(("final_report", "grade_7", "semester_1"), ("final_report", "grade_9", "semester_2"), "Knowledge", subjects_report))
-print(worst_regressing(("final_report", "grade_7", "semester_1"), ("final_report", "grade_9", "semester_2"), "Knowledge", subjects_report))
