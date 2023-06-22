@@ -26,4 +26,14 @@ def find_subject(start_report, end_report, score_type, subjects_report, compare_
                 best_score = difference
                 best_subject = subject_name
 
-    return best_subject
+    start_score = subjects_report[best_subject][start_report["type"]][start_report["grade"]][start_report["semester"]][score_type]
+    end_score = subjects_report[best_subject][end_report["type"]][end_report["grade"]][end_report["semester"]][score_type]
+
+    subject_dict = {
+        "subject": best_subject,
+        "score_difference": best_score,
+        "start_score": start_score,
+        "end_score": end_score
+    }
+
+    return subject_dict
