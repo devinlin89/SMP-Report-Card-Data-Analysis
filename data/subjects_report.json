@@ -1083,10 +1083,14 @@
         "mid_report": {
             "grade_7": {
                 "semester_1": {
-                    "Knowledge": 85.83
+                    "Knowledge": 85.83,
+                    "Skill": null,
+                    "Attitude": null
                 },
                 "semester_2": {
-                    "Knowledge": 97.77
+                    "Knowledge": 97.77,
+                    "Skill": null,
+                    "Attitude": null
                 }
             },
             "grade_8": {
@@ -1117,10 +1121,14 @@
         "final_report": {
             "grade_7": {
                 "semester_1": {
-                    "Knowledge": 94.94
+                    "Knowledge": 94.94,
+                    "Skill": null,
+                    "Attitude": null
                 },
                 "semester_2": {
-                    "Knowledge": 95.08
+                    "Knowledge": 95.08,
+                    "Skill": null,
+                    "Attitude": null
                 }
             },
             "grade_8": {
@@ -1188,6 +1196,36 @@
                 }
             }
         },
+        "Global Perspective": {
+            "mid_report": {
+                "grade_9": {
+                    "semester_1": {
+                        "Knowledge": 95,
+                        "Skill": 95,
+                        "Attitude": 3.6
+                    },
+                    "semester_2": {
+                        "Knowledge": 92.5,
+                        "Skill": 90,
+                        "Attitude": 3.6
+                    }
+                }
+            },
+            "final_report": {
+                "grade_9": {
+                    "semester_1": {
+                        "Knowledge": 93.8,
+                        "Skill": 95,
+                        "Attitude": 3.28
+                    },
+                    "semester_2": {
+                        "Knowledge": 93.63,
+                        "Skill": 90,
+                        "Attitude": 3.6
+                    }
+                }
+            }
+        },
         "final_report": {
             "grade_7": {
                 "semester_1": {
@@ -1223,36 +1261,6 @@
                     "Knowledge": 89.69,
                     "Skill": 88.91,
                     "Attitude": 3.42
-                }
-            }
-        }
-    },
-    "Global Perspective": {
-        "mid_report": {
-            "grade_9": {
-                "semester_1": {
-                    "Knowledge": 95,
-                    "Skill": 95,
-                    "Attitude": 3.6
-                },
-                "semester_2": {
-                    "Knowledge": 92.5,
-                    "Skill": 90,
-                    "Attitude": 3.6
-                }
-            }
-        },
-        "final_report": {
-            "grade_9": {
-                "semester_1": {
-                    "Knowledge": 93.8,
-                    "Skill": 95,
-                    "Attitude": 3.28
-                },
-                "semester_2": {
-                    "Knowledge": 93.63,
-                    "Skill": 90,
-                    "Attitude": 3.6
                 }
             }
         }
