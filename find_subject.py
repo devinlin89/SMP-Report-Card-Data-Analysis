@@ -1,4 +1,5 @@
 from get_score_difference import get_score_difference
+from calculate_overall_score import calculate_overall_score
 
 def find_subject(start_report, end_report, score_type, subjects_report, compare_func):
     # Finds best improving or worst regressing subject score depending on the lambda function inputted
@@ -26,8 +27,12 @@ def find_subject(start_report, end_report, score_type, subjects_report, compare_
                 best_score = difference
                 best_subject = subject_name
 
-    start_score = subjects_report[best_subject][start_report["type"]][start_report["grade"]][start_report["semester"]][score_type]
-    end_score = subjects_report[best_subject][end_report["type"]][end_report["grade"]][end_report["semester"]][score_type]
+    if score_type == "Overall":
+        start_score = round(calculate_overall_score(subjects_report[best_subject][start_report["type"]][start_report["grade"]][start_report["semester"]]), 2)
+        end_score = round(calculate_overall_score(subjects_report[best_subject][end_report["type"]][end_report["grade"]][end_report["semester"]]), 2)
+    else:
+        start_score = round(subjects_report[best_subject][start_report["type"]][start_report["grade"]][start_report["semester"]][score_type], 2)
+        end_score = round(subjects_report[best_subject][end_report["type"]][end_report["grade"]][end_report["semester"]][score_type], 2)
 
     subject_dict = {
         "subject": best_subject,
