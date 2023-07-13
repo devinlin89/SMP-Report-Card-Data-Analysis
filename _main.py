@@ -3,7 +3,7 @@ from most_change import best_improving, worst_regressing
 from best_worst import best_subject, worst_subject
 from open_json import open_json
 
-sys.stdout = open('output.txt','wt')
+sys.stdout = open('output.md','wt')
 
 print("# SMP Report Card Data Analysis")
 print()
@@ -33,18 +33,18 @@ def subject_improvement(start, end, score_type, subjects_report):
     best_improving_subject = best_improving(start, end, score_type, subjects_report)
     worst_regressing_subject = worst_regressing(start, end, score_type, subjects_report)
 
-    print(f"*Best Improving Subject In {score_type}:*")
-    print("Subject: ", best_improving_subject["subject"])
-    print("Score difference: ", best_improving_subject["score_difference"])
-    print("Starting Score: ", best_improving_subject["start_score"])
-    print("Ending Score: ", best_improving_subject["end_score"])
+    print(f"### Best Improving Subject In {score_type}:")
+    print("- Subject: ", best_improving_subject["subject"])
+    print("- Score difference: ", best_improving_subject["score_difference"])
+    print("- Starting Score: ", best_improving_subject["start_score"])
+    print("- Ending Score: ", best_improving_subject["end_score"])
     print()
 
-    print(f"*Worst Regressing Subject In {score_type}:*")
-    print("Subject: ", worst_regressing_subject["subject"])
-    print("Score difference: ", worst_regressing_subject["score_difference"])
-    print("Starting Score: ", worst_regressing_subject["start_score"])
-    print("Ending Score: ", worst_regressing_subject["end_score"])
+    print(f"### Worst Regressing Subject In {score_type}:")
+    print("- Subject: ", worst_regressing_subject["subject"])
+    print("- Score difference: ", worst_regressing_subject["score_difference"])
+    print("- Starting Score: ", worst_regressing_subject["start_score"])
+    print("- Ending Score: ", worst_regressing_subject["end_score"])
     print()
 
 print("## Improvement and Regression")
@@ -60,14 +60,14 @@ def subject_best_worst(semester, score_type, subjects_report):
     best_scoring_subject = best_subject(semester, score_type, subjects_report)
     worst_scoring_subject = worst_subject(semester, score_type, subjects_report)
 
-    print(f"*Best Subject In {score_type}:*")
-    print("Subject: ", best_scoring_subject["subject"])
-    print("Score difference: ", best_scoring_subject["score"])
+    print(f"### Best Subject In {score_type}:")
+    print("- Subject: ", best_scoring_subject["subject"])
+    print("- Score difference: ", best_scoring_subject["score"])
     print()
 
-    print(f"*Worst Subject In {score_type}:*")
-    print("Subject: ", worst_scoring_subject["subject"])
-    print("Score difference: ", worst_scoring_subject["score"])
+    print(f"### Worst Subject In {score_type}:")
+    print("- Subject: ", worst_scoring_subject["subject"])
+    print("- Score difference: ", worst_scoring_subject["score"])
     print()
 
 print("## Best and Worst")
