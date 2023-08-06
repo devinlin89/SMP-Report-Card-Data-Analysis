@@ -1,5 +1,4 @@
-from get_score_difference import get_score_difference
-from calculate_overall_score import calculate_overall_score
+from score_calculations import calculate_overall_score, get_score_difference
 
 def find_subject(report_semester, score_type, subjects_report, compare_func):
     # Finds best or worst subject score depending on the lambda function inputted
