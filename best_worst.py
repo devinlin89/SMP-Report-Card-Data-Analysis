@@ -1,5 +1,4 @@
-from find_subject import find_subject
-from find_subject import find_subject_change
+from find_subject import find_subject, find_subject_change
 
 def best_subject(semester, score_type, subjects_report):
     # Finds best improving score subject
