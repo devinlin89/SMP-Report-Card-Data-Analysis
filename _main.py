@@ -1,9 +1,14 @@
 import sys
-from most_change import best_improving, worst_regressing
+import os
+from best_worst import best_improving, worst_regressing
 from best_worst import best_subject, worst_subject
 from open_json import open_json
 
-sys.stdout = open('output.md','wt')
+# Specify the file path in the Downloads folder
+file_path = os.path.join(os.path.expanduser("~"), "Downloads", "output.md")
+
+# Redirect stdout to the file
+sys.stdout = open(file_path, 'wt')
 
 print("# SMP Report Card Data Analysis")
 print()
