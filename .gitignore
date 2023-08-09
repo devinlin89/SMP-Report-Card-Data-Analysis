@@ -15,4 +15,4 @@ config.ini
 /dist/
 *.exe
 *.dll
-/data/
+/data/*.json
