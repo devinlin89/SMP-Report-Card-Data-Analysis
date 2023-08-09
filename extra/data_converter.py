@@ -39,7 +39,7 @@ def data_converter(output_file: str):
         json.dump(converted_data, file, indent=4)
 
 # Define the output file path
-output_file = "data/converted_data.json"
+output_file = "data/subjects_report.json"
 
 data_converter(output_file)
 
