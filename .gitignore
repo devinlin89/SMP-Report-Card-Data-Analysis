@@ -15,4 +15,5 @@ config.ini
 /dist/
 *.exe
 *.dll
-/data/*.json
+/data/subjects_report.json
+/data/report_card.json
