@@ -15,3 +15,4 @@ config.ini
 /dist/
 *.exe
 *.dll
+/data/
